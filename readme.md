@@ -5,17 +5,17 @@
 #### > SpringBoot
 
 # DataFlow
-#### >Controller
+## >Controller
 ##### The controller take request from the Http Post and send it to the Service layer
-#### >Service 
+## >Service 
 ##### The service layer contains all of the business logic 
-#### >Repository 
+## >Repository 
 ##### In the project i have used JPA respository which contains all of the CRUD operations in the springBoot.
 
-#### >Database Design 
+## >Database Design 
 #####  i have used my sql as database and for accessing the code i have used h2-console
 
-#### > Data Structure Used in this project
+## > Data Structure Used in this project
 ##### .  Java classes . Java Interface
 
 
